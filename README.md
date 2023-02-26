@@ -13,6 +13,9 @@ This blocklist is intended as a simple starting point for new server admins who 
 
 ## The Blocklist
 
+**Updated**: 2023-02-26  
+**Count**: 140  
+
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
 - [gardenfence-fediblocksync.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-fediblocksync.csv) (fediblock-sync format)
