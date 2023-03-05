@@ -1,5 +1,6 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 activitypub-troll.cf,suspend,False,False,"spam, dos, harassment",False
+asbestos.cafe,suspend,False,False,"alt-right, hate-associated, hate-speech, underage",False
 bae.st,suspend,False,False,"alt-right, hate-associated, hate-speech, inappropriate, racism",False
 baraag.net,suspend,False,False,"underage, hate-associated, hate-speech, inappropriate",False
 chudbuds.lol,suspend,False,False,"harassment, hate-speech",False
@@ -18,6 +19,7 @@ lolison.top,suspend,False,False,"inappropriate, underage",False
 mastinator.com,suspend,False,False,"harassment, bots",False
 mirr0r.city,suspend,False,False,"inappropriate, hate-associated, hate-speech",False
 nicecrew.digital,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
+obo.sh,suspend,False,False,"underage, alt-right, inappropriate",False
 outpoa.st,suspend,False,False,"hate-speech, alt-right, racism",False
 pedo.school,suspend,False,False,underage,False
 pieville.net,suspend,False,False,"harassment, alt-right, hate-speech",False
@@ -27,16 +29,17 @@ refusal.biz,suspend,False,False,"alt-right, hate-speech, inappropriate, underage
 repl.co,suspend,False,False,"dos, spam, harassment",False
 ryona.agency,suspend,False,False,"hate-speech, anti-lgbtq",False
 seal.cafe,suspend,False,False,"harassment, hate-speech, alt-right, antisemitism, racism",False
+shitpost.cloud,suspend,False,False,"harassment, alt-right, hate-speech, racism",False
 shortstackran.ch,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
 sleepy.cafe,suspend,False,False,"racism, harassment, hate-speech",False
 sneed.social,suspend,False,False,"hate-speech, antisemitism, fascism, racism",False
 spinster.xyz,suspend,False,False,anti-lgbtq,False
 varishangout.net,suspend,False,False,"anti-lgbtq, hate-speech, inappropriate, racism",False
+wolfgirl.bar,suspend,False,False,"harassment, hate-speech, antisemitism, racism",False
 yggdrasil.social,suspend,False,False,"hate-speech, anti-lgbtq",False
 youjo.love,suspend,False,False,"antisemitism, antivax, inappropriate, underage",False
 a.sc,suspend,False,False,"hate-speech, fascism, racism",False
 aethy.com,suspend,False,False,underage,False
-asbestos.cafe,suspend,False,False,"alt-right, hate-associated, hate-speech, underage",False
 beefyboys.win,suspend,False,False,hate-speech,False
 blob.cat,suspend,False,False,"alt-right, harassment",False
 brighteon.social,suspend,False,False,"conspiracy, harassment",False
@@ -71,12 +74,10 @@ misskey-forkbomb.cf,suspend,False,False,"spam, dos, harassment",False
 mugicha.club,suspend,False,False,"hate-speech, racism",False
 nnia.space,suspend,False,False,"underage, alt-right",False
 noagendasocial.com,suspend,False,False,"alt-right, harassment, hate-speech",False
-obo.sh,suspend,False,False,"underage, alt-right, inappropriate",False
 pawoo.net,suspend,False,False,"underage, spam",False
 pisskey.io,suspend,False,False,hate-speech,False
 rapemeat.solutions,suspend,False,False,"underage, hate-speech, inappropriate",False
 rojogato.com,suspend,False,False,"harassment, alt-right, hate-speech",False
-shitpost.cloud,suspend,False,False,"harassment, alt-right, racism",False
 shitposter.club,suspend,False,False,"harassment, alt-right",False
 shota.house,suspend,False,False,"alt-right, underage",False
 skinnyver.se,suspend,False,False,"hate-associated, hate-speech",False
@@ -84,7 +85,6 @@ strelizia.net,suspend,False,False,"hate-speech, underage",False
 tastingtraffic.net,suspend,False,False,"spam, anti-lgbtq",False
 trumpislovetrumpis.life,suspend,False,False,"alt-right, hate-speech",False
 twtr.plus,suspend,False,False,"bots, twitter",False
-wolfgirl.bar,suspend,False,False,"harassment, antisemitism, hate-speech, racism",False
 wxw.moe,suspend,False,False,underage,False
 zztails.gay,suspend,False,False,"hate-speech, alt-right, racism",False
 076.ne.jp,suspend,False,False,"hate-associated, hate-speech",False
