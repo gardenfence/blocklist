@@ -5,6 +5,7 @@ bae.st,suspend,False,False,"alt-right, hate-associated, hate-speech, inappropria
 baraag.net,suspend,False,False,"underage, hate-associated, hate-speech, inappropriate",False
 chudbuds.lol,suspend,False,False,"harassment, hate-speech",False
 cum.salon,suspend,False,False,"hate-speech, anti-lgbtq, harassment, porn",False
+cyberstorm.one,suspend,False,False,"hate-speech, alt-right",False
 detroitriotcity.com,suspend,False,False,"hate-speech, anti-lgbtq, harassment, racism",False
 eientei.org,suspend,False,False,"hate-speech, racism, anti-lgbtq",False
 eveningzoo.club,suspend,False,False,"hate-speech, alt-right, antisemitism, conspiracy, fascism, harassment, racism",False
@@ -58,7 +59,7 @@ collapsitarian.io,suspend,False,False,alt-right,False
 contrapointsfan.club,suspend,False,False,"hate-associated, hate-speech",False
 cum.camp,suspend,False,False,"harassment, inappropriate",False
 cybercriminal.eu,suspend,False,False,"harassment, hate-associated",False
-cyberstorm.one,suspend,False,False,"hate-speech, alt-right",False
+djsumdog.com,suspend,False,False,"antivax, harassment, hate-speech",False
 eatthebugs.social,suspend,False,False,"alt-right, anti-lgbtq, antisemitism",False
 federated.fun,suspend,False,False,"anti-lgbtq, hate-speech",False
 feral.cafe,suspend,False,False,"inappropriate, underage",False
@@ -104,6 +105,7 @@ twtr.plus,suspend,False,False,"bots, twitter",False
 wxw.moe,suspend,False,False,underage,False
 zztails.gay,suspend,False,False,"hate-speech, alt-right, racism",False
 076.ne.jp,suspend,False,False,"hate-associated, hate-speech",False
+101010.pl,suspend,False,False,fascism,False
 13bells.com,suspend,False,False,"hate-associated, conspiracy, hate-speech",False
 1611.social,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
 angrytoday.com,suspend,False,False,"alt-right, hate-associated, hate-speech",False
@@ -114,7 +116,6 @@ bird.makeup,suspend,False,False,"bots, twitter",False
 breastmilk.club,suspend,False,False,"alt-right, harassment, hate-associated, racism",False
 carnivore.social,suspend,False,False,"alt-right, conspiracy",False
 dickkickextremist.xyz,suspend,False,False,,False
-djsumdog.com,suspend,False,False,"antivax, harassment",False
 fbxl.net,suspend,False,False,"hate-associated, hate-speech",False
 freeatlantis.com,suspend,False,False,"conspiracy, hate-speech, misinformation",False
 freesoftwareextremist.com,suspend,False,False,alt-right,False
@@ -128,6 +129,7 @@ lizards.live,suspend,False,False,"alt-right, hate-associated",False
 lolison.network,suspend,False,False,"inappropriate, underage",False
 mastertibbles.co.uk,suspend,False,False,"alt-right, racism",False
 merovingian.club,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
+mostr.pub,suspend,False,False,alt-right,False
 mrhands.horse,suspend,False,False,"hate-associated, hate-speech",False
 natehiggers.online,suspend,False,False,"hate-speech, racism, fascism",False
 neenster.org,suspend,False,False,anti-lgbtq,False
@@ -138,6 +140,7 @@ poweredbycocaine.com,suspend,False,False,"alt-right, harassment, hate-associated
 privex.social,suspend,False,False,"hate-associated, hate-speech",False
 refusal.llc,suspend,False,False,"alt-right, hate-speech, underage",False
 scots.network,suspend,False,False,"anti-lgbtq, hate-speech",False
+shotatube.xyz,suspend,False,False,inappropriate,False
 skyshanty.xyz,suspend,False,False,"hate-associated, hate-speech",False
 slash.cl,suspend,False,False,hate-associated,False
 squid.kids,suspend,False,False,"hate-speech, hate-associated, racism",False

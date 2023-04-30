@@ -13,8 +13,8 @@ This blocklist is intended as a simple starting point for new server admins who 
 
 ## The Blocklist
 
-**Updated**: 2023-04-23  
-**Count**: 154  
+**Updated**: 2023-04-30  
+**Count**: 157  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
