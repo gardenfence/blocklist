@@ -7,6 +7,7 @@ a.sc
 activitypub-troll.cf
 aethy.com
 angrytoday.com
+annihilation.social
 anon-kenkai.com
 asbestos.cafe
 bae.st
@@ -32,7 +33,6 @@ cum.salon
 cybercriminal.eu
 cyberstorm.one
 detroitriotcity.com
-dickkickextremist.xyz
 djsumdog.com
 eatthebugs.social
 eientei.org

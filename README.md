@@ -13,7 +13,7 @@ This blocklist is intended as a simple starting point for new server admins who 
 
 ## The Blocklist
 
-**Updated**: 2023-05-07  
+**Updated**: 2023-05-11  
 **Count**: 158  
 
 ### Downloadable Files for Import
