@@ -13,8 +13,8 @@ This blocklist is intended as a simple starting point for new server admins who 
 
 ## The Blocklist
 
-**Updated**: 2023-05-11  
-**Count**: 158  
+**Updated**: 2023-05-12  
+**Count**: 135  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -32,11 +32,11 @@ The Garden Fence blocklist is generated with a python script:
 
 - Block lists are fetched from each of the reference servers
 - *Suspend* level blocks are counted, *Limit/Silence* blocks are ignored
-- Suspensions which are shared by **at least 75% of reference servers** are included in the list (5/7)\*
+- Suspensions which are shared by **at least 75% of reference servers** are included in the list (5/6)\*
 - Tags are added by matching against the comments provided by the reference servers
 - Servers which are believed to be offline are filtered out to reduce clutter
 
- *\* percentage is approximate due to rounding*
+ *\* percentage is approximate due to rounding, and may vary as server participation changes*
 
 ### Reference Servers
 
@@ -48,7 +48,6 @@ The admins of these servers have given permission for their block lists to be us
 - [rage.love](https://rage.love)
 - [toot.wales](https://toot.wales)
 - [oliphant.social](https://oliphant.social)
-- [pettingzoo.co](https://pettingzoo.co)
 
 The admins of these servers make their own determinations about which servers to block, and represent a variety of administrative styles and approaches to evaluating the importance of blocking any particular server. They do not necessarily endorse the entire content of the final blocklist, or suspensions made by other servers.
 
