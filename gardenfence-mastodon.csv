@@ -26,6 +26,7 @@ kurosawa.moe,suspend,False,False,"hate-speech, harassment, hate-associated, raci
 leafposter.club,suspend,False,False,"hate-speech, alt-right, harassment, racism",False
 lewdieheaven.com,suspend,False,False,"underage, inappropriate",False
 lolison.top,suspend,False,False,"inappropriate, underage",False
+mapsupport.de,suspend,False,False,"underage, harassment, inappropriate",False
 mastinator.com,suspend,False,False,"bots, harassment",False
 mirr0r.city,suspend,False,False,"inappropriate, hate-associated, hate-speech",False
 mugicha.club,suspend,False,False,"hate-speech, racism",False
@@ -102,7 +103,6 @@ ligma.pro,suspend,False,False,alt-right,False
 lolicon.rocks,suspend,False,False,"hate-speech, underage",False
 lolison.network,suspend,False,False,"inappropriate, underage",False
 lovingexpressions.net,suspend,False,False,"alt-right, hate-associated, hate-speech, racism",False
-mapsupport.de,suspend,False,False,"harassment, inappropriate, underage",False
 masochi.st,suspend,False,False,"harassment, hate-associated, hate-speech",False
 mastertibbles.co.uk,suspend,False,False,"alt-right, racism",False
 mastodong.lol,suspend,False,False,"hate-associated, hate-speech",False
@@ -127,6 +127,7 @@ shitposter.club,suspend,False,False,"alt-right, harassment",False
 skinnyver.se,suspend,False,False,"hate-associated, hate-speech",False
 skyshanty.xyz,suspend,False,False,"hate-associated, hate-speech",False
 springbo.cc,suspend,False,False,"alt-right, anti-lgbtq, racism, harassment",False
+stereophonic.space,suspend,False,False,"hate-associated, alt-right, harassment, hate-speech",False
 strelizia.net,suspend,False,False,"hate-speech, underage",False
 thisisjoes.site,suspend,False,False,"hate-associated, hate-speech",False
 trumpislovetrumpis.life,suspend,False,False,"alt-right, hate-speech",False
