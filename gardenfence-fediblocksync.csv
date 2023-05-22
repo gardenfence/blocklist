@@ -6,13 +6,13 @@ activitypub-troll.cf,suspend,"Garden Fence 2023-05-22 [7/7] dos(2), harassment(2
 aethy.com,suspend,Garden Fence 2023-05-22 [6/7] underage(2),underage
 angrytoday.com,suspend,"Garden Fence 2023-05-22 [6/7] hate-associated(2), alt-right, hate-speech","hate-associated, alt-right, hate-speech"
 annihilation.social,suspend,"Garden Fence 2023-05-22 [5/7] hate-speech(2), harassment, hate-associated","hate-speech, harassment, hate-associated"
-asbestos.cafe,suspend,"Garden Fence 2023-05-22 [7/7] alt-right(2), hate-associated(2), hate-speech(2), underage","alt-right, hate-associated, hate-speech, underage"
+asbestos.cafe,suspend,"Garden Fence 2023-05-22 [7/7] alt-right(2), hate-associated(2), hate-speech(2), anti-lgbtq, racism, underage","alt-right, hate-associated, hate-speech, anti-lgbtq, racism, underage"
 badly.co,suspend,Garden Fence 2023-05-22 [5/7] alt-right,alt-right
 bae.st,suspend,"Garden Fence 2023-05-22 [7/7] alt-right(2), hate-speech(2), anti-lgbtq, hate-associated, inappropriate, racism","alt-right, hate-speech, anti-lgbtq, hate-associated, inappropriate, racism"
 banepo.st,suspend,"Garden Fence 2023-05-22 [6/7] hate-associated(2), antivax, harassment, hate-speech","hate-associated, antivax, harassment, hate-speech"
 baraag.net,suspend,"Garden Fence 2023-05-22 [7/7] underage(2), hate-associated, hate-speech, inappropriate","underage, hate-associated, hate-speech, inappropriate"
 beefyboys.win,suspend,Garden Fence 2023-05-22 [7/7] hate-speech(2),hate-speech
-berserker.town,suspend,"Garden Fence 2023-05-22 [6/7] hate-speech(2), alt-right, fascism","hate-speech, alt-right, fascism"
+berserker.town,suspend,"Garden Fence 2023-05-22 [6/7] hate-speech(2), alt-right, anti-lgbtq, fascism","hate-speech, alt-right, anti-lgbtq, fascism"
 bikeshed.party,suspend,Garden Fence 2023-05-22 [5/7] harassment,harassment
 bird.makeup,suspend,"Garden Fence 2023-05-22 [7/7] twitter(3), bots","twitter, bots"
 blob.cat,suspend,"Garden Fence 2023-05-22 [6/7] harassment(2), alt-right","harassment, alt-right"
@@ -31,7 +31,7 @@ cum.salon,suspend,"Garden Fence 2023-05-22 [7/7] hate-speech(3), porn","hate-spe
 cybercriminal.eu,suspend,"Garden Fence 2023-05-22 [6/7] harassment(3), hate-associated, spam","harassment, hate-associated, spam"
 cyberstorm.one,suspend,"Garden Fence 2023-05-22 [7/7] alt-right(3), hate-speech(2)","alt-right, hate-speech"
 detroitriotcity.com,suspend,"Garden Fence 2023-05-22 [7/7] anti-lgbtq, harassment, hate-speech, racism","anti-lgbtq, harassment, hate-speech, racism"
-eatthebugs.social,suspend,"Garden Fence 2023-05-22 [6/7] antisemitism(3), alt-right(2), anti-lgbtq(2)","antisemitism, alt-right, anti-lgbtq"
+eatthebugs.social,suspend,"Garden Fence 2023-05-22 [6/7] anti-lgbtq(3), antisemitism(3), alt-right(2)","anti-lgbtq, antisemitism, alt-right"
 eientei.org,suspend,"Garden Fence 2023-05-22 [7/7] hate-speech(2), racism","hate-speech, racism"
 eveningzoo.club,suspend,"Garden Fence 2023-05-22 [7/7] hate-speech(2), alt-right, antisemitism, conspiracy, fascism, racism","hate-speech, alt-right, antisemitism, conspiracy, fascism, racism"
 federated.fun,suspend,"Garden Fence 2023-05-22 [6/7] anti-lgbtq(2), hate-speech(2)","anti-lgbtq, hate-speech"
@@ -77,7 +77,7 @@ lovingexpressions.net,suspend,"Garden Fence 2023-05-22 [5/7] alt-right, hate-ass
 mahodou.moe,suspend,Garden Fence 2023-05-22 [5/7] hate-associated,hate-associated
 mapsupport.de,suspend,"Garden Fence 2023-05-22 [6/7] underage(2), harassment, inappropriate","underage, harassment, inappropriate"
 masochi.st,suspend,"Garden Fence 2023-05-22 [5/7] harassment(2), hate-associated, hate-speech","harassment, hate-associated, hate-speech"
-mastertibbles.co.uk,suspend,"Garden Fence 2023-05-22 [5/7] alt-right(2), racism(2)","alt-right, racism"
+mastertibbles.co.uk,suspend,"Garden Fence 2023-05-22 [5/7] racism(3), alt-right(2)","racism, alt-right"
 mastinator.com,suspend,"Garden Fence 2023-05-22 [7/7] bots, harassment","bots, harassment"
 mastodong.lol,suspend,"Garden Fence 2023-05-22 [5/7] hate-associated(2), hate-speech","hate-associated, hate-speech"
 merovingian.club,suspend,"Garden Fence 2023-05-22 [6/7] anti-lgbtq(2), hate-associated(2), hate-speech(2)","anti-lgbtq, hate-associated, hate-speech"
@@ -101,7 +101,7 @@ pieville.net,suspend,"Garden Fence 2023-05-22 [7/7] alt-right, harassment, hate-
 pisskey.io,suspend,Garden Fence 2023-05-22 [7/7] hate-speech(2),hate-speech
 pkteerium.xyz,suspend,"Garden Fence 2023-05-22 [6/7] alt-right(2), conspiracy(2)","alt-right, conspiracy"
 poa.st,suspend,"Garden Fence 2023-05-22 [7/7] alt-right(3), hate-speech(2), racism","alt-right, hate-speech, racism"
-pone.social,suspend,Garden Fence 2023-05-22 [5/7] ,
+pone.social,suspend,"Garden Fence 2023-05-22 [5/7] anti-lgbtq, racism","anti-lgbtq, racism"
 poster.place,suspend,"Garden Fence 2023-05-22 [6/7] alt-right, anti-lgbtq, hate-speech, racism","alt-right, anti-lgbtq, hate-speech, racism"
 quanta.wiki,suspend,Garden Fence 2023-05-22 [5/7] hate-associated,hate-associated
 rapemeat.solutions,suspend,"Garden Fence 2023-05-22 [7/7] hate-speech, inappropriate, underage","hate-speech, inappropriate, underage"
@@ -137,7 +137,6 @@ trumpislovetrumpis.life,suspend,"Garden Fence 2023-05-22 [5/7] alt-right, hate-s
 truthsocial.co.in,suspend,Garden Fence 2023-05-22 [6/7] alt-right(2),alt-right
 twtr.plus,suspend,"Garden Fence 2023-05-22 [5/7] bots(2), twitter","bots, twitter"
 ua-fediland.de,suspend,"Garden Fence 2023-05-22 [5/7] anti-lgbtq, hate-associated","anti-lgbtq, hate-associated"
-unsafe.space,suspend,Garden Fence 2023-05-22 [5/7] ,
 varishangout.net,suspend,"Garden Fence 2023-05-22 [7/7] anti-lgbtq, hate-speech, inappropriate, racism","anti-lgbtq, hate-speech, inappropriate, racism"
 whinge.town,suspend,"Garden Fence 2023-05-22 [6/7] hate-associated(2), anti-lgbtq, hate-speech, racism","hate-associated, anti-lgbtq, hate-speech, racism"
 wolfgirl.bar,suspend,"Garden Fence 2023-05-22 [7/7] harassment(2), hate-speech(2), antisemitism, racism","harassment, hate-speech, antisemitism, racism"
