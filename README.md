@@ -1,6 +1,6 @@
 # Garden Fence
 
-This blocklist is intended as a simple starting point for new server admins who want to protect their users from the worst and most well known sources of:
+This blocklist is intended as a simple starting point for Mastodon server admins who want to protect their users from the worst and most well known sources of:
 
 - Hate speech, racism, sexism, homophobia, transphobia
 - Harassment, trolling, doxxing, stalking
@@ -9,7 +9,6 @@ This blocklist is intended as a simple starting point for new server admins who 
 - Misinformation, anti-vax, conspiracy theories
 - Sexualization of minors, potential for [CSAM](https://www.missingkids.org/theissues/csam)
 - Spamming, denial-of-service, network disruption, abusive bots
-
 
 ## The Blocklist
 
