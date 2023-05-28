@@ -41,7 +41,7 @@ fluf.club,suspend,False,False,"hate-associated, hate-speech",False
 freak.university,suspend,False,False,"inappropriate, underage",False
 freeatlantis.com,suspend,False,False,"conspiracy, hate-speech, misinformation",False
 freecumextremist.com,suspend,False,False,"hate-speech, harassment",False
-freesoftwareextremist.com,suspend,False,False,alt-right,False
+freesoftwareextremist.com,suspend,False,False,"alt-right, hate-speech",False
 freespeech.group,suspend,False,False,"alt-right, conspiracy",False
 freespeechextremist.com,suspend,False,False,hate-speech,False
 freethinkers.lgbt,suspend,False,False,"hate-associated, harassment, hate-speech",False
@@ -102,7 +102,7 @@ pisskey.io,suspend,False,False,hate-speech,False
 pkteerium.xyz,suspend,False,False,"alt-right, conspiracy",False
 poa.st,suspend,False,False,"alt-right, hate-speech, racism",False
 pone.social,suspend,False,False,"anti-lgbtq, racism",False
-poster.place,suspend,False,False,"alt-right, anti-lgbtq, hate-speech, racism",False
+poster.place,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, racism",False
 quanta.wiki,suspend,False,False,hate-associated,False
 rapemeat.solutions,suspend,False,False,"hate-speech, inappropriate, underage",False
 rcsocial.net,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
