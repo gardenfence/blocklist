@@ -8,7 +8,7 @@ angrytoday.com,suspend,False,False,"hate-associated, alt-right, hate-speech",Fal
 annihilation.social,suspend,False,False,"hate-speech, harassment, hate-associated",False
 asbestos.cafe,suspend,False,False,"alt-right, hate-associated, hate-speech, anti-lgbtq, racism, underage",False
 badly.co,suspend,False,False,alt-right,False
-bae.st,suspend,False,False,"alt-right, hate-speech, anti-lgbtq, hate-associated, inappropriate, racism",False
+bae.st,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, conspiracy, hate-associated, inappropriate, racism",False
 banepo.st,suspend,False,False,"hate-associated, antivax, harassment, hate-speech",False
 baraag.net,suspend,False,False,"underage, hate-associated, hate-speech, inappropriate",False
 beefyboys.win,suspend,False,False,hate-speech,False
@@ -93,6 +93,7 @@ nicecrew.digital,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
 nnia.space,suspend,False,False,"alt-right, underage",False
 noagendasocial.com,suspend,False,False,"hate-speech, alt-right",False
 obo.sh,suspend,False,False,"underage, alt-right, inappropriate",False
+onionfarms.org,suspend,False,False,"harassment, hate-speech, racism",False
 outpoa.st,suspend,False,False,"hate-speech, alt-right, racism",False
 pawoo.net,suspend,False,False,underage,False
 pedo.school,suspend,False,False,underage,False
@@ -100,6 +101,7 @@ pibvt.net,suspend,False,False,underage,False
 pieville.net,suspend,False,False,"alt-right, harassment, hate-speech",False
 pisskey.io,suspend,False,False,hate-speech,False
 pkteerium.xyz,suspend,False,False,"alt-right, conspiracy",False
+pleroma.nobodyhasthe.biz,suspend,False,False,"anti-lgbtq, hate-speech",False
 poa.st,suspend,False,False,"alt-right, hate-speech, racism",False
 pone.social,suspend,False,False,"anti-lgbtq, racism",False
 poster.place,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, racism",False
@@ -110,6 +112,7 @@ rdrama.cc,suspend,False,False,"anti-lgbtq, harassment, hate-speech, racism",Fals
 refusal.biz,suspend,False,False,"alt-right, hate-speech, inappropriate, underage",False
 refusal.llc,suspend,False,False,"alt-right, hate-speech, underage",False
 repl.co,suspend,False,False,"dos, spam",False
+republic.red,suspend,False,False,"alt-right, fascism, anti-lgbtq, conspiracy, hate-speech",False
 rojogato.com,suspend,False,False,"harassment, hate-speech",False
 rot.gives,suspend,False,False,"underage, hate-speech",False
 ryona.agency,suspend,False,False,"hate-speech, anti-lgbtq",False
