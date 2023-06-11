@@ -3,6 +3,7 @@
 a.sc
 activitypub-troll.cf
 aethy.com
+ai.wiki
 angrytoday.com
 annihilation.social
 asbestos.cafe
@@ -49,6 +50,7 @@ froth.zone
 gameliberty.club
 gearlandia.haus
 genderheretics.xyz
+gensokyo.club
 geofront.rocks
 gleasonator.com
 glee.li

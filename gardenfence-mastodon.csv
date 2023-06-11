@@ -4,6 +4,7 @@
 a.sc,suspend,False,False,"fascism, hate-speech, racism",False
 activitypub-troll.cf,suspend,False,False,"dos, harassment, spam",False
 aethy.com,suspend,False,False,underage,False
+ai.wiki,suspend,False,False,"spam, anti-lgbtq, crypto",False
 angrytoday.com,suspend,False,False,"hate-associated, alt-right, hate-speech",False
 annihilation.social,suspend,False,False,"hate-speech, harassment, hate-associated",False
 asbestos.cafe,suspend,False,False,"alt-right, hate-associated, hate-speech, anti-lgbtq, racism, underage",False
@@ -50,6 +51,7 @@ froth.zone,suspend,False,False,"hate-associated, hate-speech",False
 gameliberty.club,suspend,False,False,"bots, hate-speech, racism",False
 gearlandia.haus,suspend,False,False,"anti-lgbtq, racism, alt-right",False
 genderheretics.xyz,suspend,False,False,"anti-lgbtq, hate-speech",False
+gensokyo.club,suspend,False,False,"hate-associated, hate-speech",False
 geofront.rocks,suspend,False,False,"racism, alt-right, hate-speech",False
 gleasonator.com,suspend,False,False,anti-lgbtq,False
 glee.li,suspend,False,False,"harassment, racism",False
@@ -104,7 +106,7 @@ pkteerium.xyz,suspend,False,False,"alt-right, conspiracy",False
 pleroma.nobodyhasthe.biz,suspend,False,False,"anti-lgbtq, hate-speech",False
 poa.st,suspend,False,False,"alt-right, hate-speech, racism",False
 pone.social,suspend,False,False,"anti-lgbtq, racism",False
-poster.place,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, racism",False
+poster.place,suspend,False,False,"anti-lgbtq, hate-speech, racism, alt-right, hate-associated",False
 quanta.wiki,suspend,False,False,hate-associated,False
 rapemeat.solutions,suspend,False,False,"hate-speech, inappropriate, underage",False
 rcsocial.net,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
@@ -118,7 +120,7 @@ rot.gives,suspend,False,False,"underage, hate-speech",False
 ryona.agency,suspend,False,False,"hate-speech, anti-lgbtq",False
 schwartzwelt.xyz,suspend,False,False,"hate-associated, hate-speech",False
 scots.network,suspend,False,False,"anti-lgbtq, hate-speech",False
-seal.cafe,suspend,False,False,"harassment, alt-right, antisemitism, hate-speech, racism",False
+seal.cafe,suspend,False,False,"harassment, racism, alt-right, anti-lgbtq, antisemitism, hate-associated, hate-speech",False
 shigusegubu.club,suspend,False,False,harassment,False
 shitpost.cloud,suspend,False,False,"alt-right, harassment, hate-speech, racism",False
 shitposter.club,suspend,False,False,"alt-right, harassment",False
