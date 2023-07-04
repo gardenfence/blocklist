@@ -69,3 +69,13 @@ It is also highly biased towards English content, and may not provide good cover
 ### Realtime
 
 There is currently no fixed update schedule, but it won't likely be more than once a week or so.
+
+# Other Blocklists
+
+One of the aims of the Garden Fence blocklist is simplicity. There is only one list, and I aim to keep it as straightforward as I can.  
+
+It might not suit your needs though, so these are a couple of other blocklists you might want to look at. They work on different criteria, and these pages also have some additional information on working with blocklists in general.
+
+- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains quite a variety of different lists, as well as combined lists based on other sources.  The Garden Fence blocklist, and Seirdy's blocklist are used as sources for some of the combined lists here.
+
+- [Seirdy's Fediverse Blocklists](https://seirdy.one/posts/2023/05/02/fediverse-blocklists/) has several manually curated block lists in different levels of severity.
