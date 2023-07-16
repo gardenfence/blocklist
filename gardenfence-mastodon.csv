@@ -19,7 +19,7 @@ berserker.town,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, fascism"
 bikeshed.party,suspend,False,False,harassment,False
 bird.makeup,suspend,False,False,"twitter, bots",False
 blob.cat,suspend,False,False,"harassment, porn",False
-boks.moe,suspend,False,False,"alt-right, hate-associated, hate-speech, racism",False
+boks.moe,suspend,False,False,"hate-associated, alt-right, hate-speech, racism",False
 breastmilk.club,suspend,False,False,"harassment, hate-associated, racism",False
 brighteon.social,suspend,False,False,conspiracy,False
 bubbletea.dev,suspend,False,False,"hate-associated, alt-right, bots",False
@@ -71,7 +71,7 @@ ignorelist.com,suspend,False,False,"dos, spam",False
 imirhil.fr,suspend,False,False,crypto,False
 intkos.link,suspend,False,False,"hate-speech, alt-right, antisemitism",False
 kawa-kun.com,suspend,False,False,hate-associated,False
-kitsunemimi.club,suspend,False,False,"hate-speech, racism, anti-lgbtq, harassment",False
+kitsunemimi.club,suspend,False,False,"hate-speech, racism",False
 kiwifarms.cc,suspend,False,False,"harassment, alt-right, anti-lgbtq, racism",False
 kompost.cz,suspend,False,False,"hate-speech, nazism, racism",False
 kurosawa.moe,suspend,False,False,"hate-associated, hate-speech, racism, harassment, underage",False
@@ -139,7 +139,7 @@ shortstackran.ch,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
 shota.house,suspend,False,False,"alt-right, underage, inappropriate",False
 shpposter.club,suspend,False,False,hate-associated,False
 shrimpcam.pw,suspend,False,False,"harassment, bots",False
-shrimpposter.club,suspend,False,False,"hate-speech, harassment, hate-associated",False
+shrimpposter.club,suspend,False,False,"hate-associated, hate-speech, harassment",False
 skinnyver.se,suspend,False,False,hate-associated,False
 skippers-bin.com,suspend,False,False,"inappropriate, underage",False
 skyshanty.xyz,suspend,False,False,hate-associated,False
@@ -151,7 +151,7 @@ springbo.cc,suspend,False,False,"alt-right, anti-lgbtq, racism, harassment",Fals
 starnix.network,suspend,False,False,"hate-associated, hate-speech",False
 stereophonic.space,suspend,False,False,"hate-associated, alt-right, harassment",False
 strelizia.net,suspend,False,False,"hate-speech, underage",False
-syspxl.xyz,suspend,False,False,"harassment, hate-speech",False
+syspxl.xyz,suspend,False,False,"harassment, hate-associated, hate-speech",False
 tastingtraffic.net,suspend,False,False,"anti-lgbtq, spam",False
 teci.world,suspend,False,False,hate-associated,False
 thepostearthdestination.com,suspend,False,False,hate-speech,False
