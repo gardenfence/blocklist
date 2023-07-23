@@ -2,6 +2,7 @@
 13bells.com
 1611.social
 a.sc
+absturztau.be
 activitypub-troll.cf
 aethy.com
 ai.wiki
@@ -28,6 +29,8 @@ chudbuds.lol
 clubcyberia.co
 collapsitarian.io
 contrapointsfan.club
+crlf.ninja
+crucible.world
 cryptodon.lol
 cum.camp
 cum.salon

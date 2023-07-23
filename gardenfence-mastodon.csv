@@ -3,6 +3,7 @@
 13bells.com,suspend,False,False,"hate-associated, conspiracy, hate-speech",False
 1611.social,suspend,False,False,"hate-associated, anti-lgbtq, hate-speech",False
 a.sc,suspend,False,False,"fascism, hate-speech, racism",False
+absturztau.be,suspend,False,False,underage,False
 activitypub-troll.cf,suspend,False,False,"dos, harassment, spam",False
 aethy.com,suspend,False,False,underage,False
 ai.wiki,suspend,False,False,"spam, anti-lgbtq, crypto",False
@@ -26,9 +27,11 @@ bubbletea.dev,suspend,False,False,"hate-associated, alt-right, bots",False
 bungle.online,suspend,False,False,"hate-associated, racism",False
 calobar.club,suspend,False,False,hate-associated,False
 chudbuds.lol,suspend,False,False,"harassment, hate-speech",False
-clubcyberia.co,suspend,False,False,"harassment, hate-speech",False
+clubcyberia.co,suspend,False,False,"harassment, hate-speech, racism",False
 collapsitarian.io,suspend,False,False,"alt-right, hate-associated",False
 contrapointsfan.club,suspend,False,False,"hate-associated, hate-speech",False
+crlf.ninja,suspend,False,False,"harassment, alt-right, hate-associated, hate-speech",False
+crucible.world,suspend,False,False,anti-lgbtq,False
 cryptodon.lol,suspend,False,False,crypto,False
 cum.camp,suspend,False,False,"harassment, inappropriate",False
 cum.salon,suspend,False,False,"hate-speech, porn",False
