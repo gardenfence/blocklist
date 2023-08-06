@@ -12,8 +12,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Updated**: 2023-07-31  
-**Count**: 178  
+**Updated**: 2023-08-06  
+**Count**: 182  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -56,7 +56,7 @@ The admins of these servers make their own determinations about which servers to
 
 ### Neutral / Unbiased
 
-This is not a neutral or unbiased survey of which servers are most blocked accross the fediverse. It is highly biased against the various forms of unwanted content mentioned above.
+This is not a neutral or unbiased survey of which servers are most blocked across the fediverse. It is highly biased against the various forms of unwanted content mentioned above.
 
 ### Comprehensive
 
