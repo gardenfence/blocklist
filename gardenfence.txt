@@ -27,6 +27,7 @@ bubbletea.dev
 bungle.online
 calobar.club
 chudbuds.lol
+clew.lol
 clubcyberia.co
 collapsitarian.io
 contrapointsfan.club
@@ -102,6 +103,7 @@ milker.cafe
 mirr0r.city
 miruku.cafe
 misskey-forkbomb.cf
+mouse.services
 mugicha.club
 name.my
 narrativerry.xyz
@@ -111,6 +113,8 @@ nicecrew.digital
 nnia.space
 noagendasocial.com
 nobodyhasthe.biz
+norwoodzero.net
+nyanide.com
 obo.sh
 onionfarms.org
 outpoa.st
@@ -171,6 +175,7 @@ ua-fediland.de
 usualsuspects.lol
 varishangout.net
 vrij.social
+vtuberfan.social
 whinge.town
 wideboys.org
 wolfgirl.bar
