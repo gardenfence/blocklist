@@ -104,6 +104,7 @@ milker.cafe,suspend,False,False,"hate-associated, porn, underage",False
 mirr0r.city,suspend,False,False,"hate-associated, inappropriate, underage",False
 miruku.cafe,suspend,False,False,racism,False
 misskey-forkbomb.cf,suspend,False,False,"dos, spam",False
+mostr.pub,suspend,False,False,alt-right,False
 mouse.services,suspend,False,False,"harassment, hate-associated",False
 mugicha.club,suspend,False,False,"hate-speech, racism",False
 name.my,suspend,False,False,spam,False
@@ -122,6 +123,7 @@ outpoa.st,suspend,False,False,"alt-right, hate-speech, racism",False
 pawlicker.com,suspend,False,False,"anti-lgbtq, conspiracy, harassment, racism, underage",False
 pawoo.net,suspend,False,False,"underage, inappropriate",False
 pedo.school,suspend,False,False,underage,False
+pettanko.art,suspend,False,False,"inappropriate, underage",False
 pibvt.net,suspend,False,False,"underage, inappropriate",False
 pieville.net,suspend,False,False,"harassment, hate-speech, nazism",False
 pisskey.io,suspend,False,False,"hate-speech, hate-associated",False
@@ -130,6 +132,7 @@ poa.st,suspend,False,False,"nazism, alt-right, hate-speech, racism",False
 pone.social,suspend,False,False,"anti-lgbtq, racism",False
 poster.place,suspend,False,False,"anti-lgbtq, hate-speech, racism, alt-right, hate-associated, nazism",False
 quanta.wiki,suspend,False,False,hate-associated,False
+rapemeat.express,suspend,False,False,"hate-associated, hate-speech",False
 rapemeat.solutions,suspend,False,False,"hate-speech, inappropriate, underage",False
 rcsocial.net,suspend,False,False,"anti-lgbtq, hate-associated",False
 rdrama.cc,suspend,False,False,"anti-lgbtq, harassment, hate-speech, racism",False

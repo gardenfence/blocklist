@@ -12,8 +12,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Updated**: 2023-08-27  
-**Count**: 188  
+**Updated**: 2023-09-03  
+**Count**: 191  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -68,14 +68,16 @@ It is also highly biased towards English content, and may not provide good cover
 
 ### Realtime
 
-There is currently no fixed update schedule, but it won't likely be more than once a week or so.
+Updates are typically processed and reviewed once a week.
 
 # Other Blocklists
 
-One of the aims of the Garden Fence blocklist is simplicity. There is only one list, and I aim to keep it as straightforward as I can.  
+One of the aims of the Garden Fence blocklist is simplicity. There is only one list, it can be used for manual or automatic import, and I aim to keep it as straightforward as I can.  
 
-It might not suit your needs though, so these are a couple of other blocklists you might want to look at. They work on different criteria, and these pages also have some additional information on working with blocklists in general.
+It might not suit your needs though.  These are some other recommended lists which you might find useful:
 
-- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains quite a variety of different lists, as well as combined lists based on other sources.  The Garden Fence blocklist, and Seirdy's blocklist are used as sources for some of the combined lists here.
+- [PaulaToThePeople's FediBlock](https://joinfediverse.wiki/FediBlock) is a manually curated list, and is formatted for manual reference, not importing.
 
 - [Seirdy's Fediverse Blocklists](https://seirdy.one/posts/2023/05/02/fediverse-blocklists/) has several manually curated block lists in different levels of severity.
+
+- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains a variety of lists automatically combined from a variety of sources.
