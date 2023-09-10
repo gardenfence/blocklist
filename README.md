@@ -12,7 +12,7 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Updated**: 2023-09-03  
+**Updated**: 2023-09-10  
 **Count**: 191  
 
 ### Downloadable Files for Import

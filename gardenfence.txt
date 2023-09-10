@@ -26,7 +26,6 @@ brighteon.social
 bubbletea.dev
 bungle.online
 calobar.club
-chudbuds.lol
 clew.lol
 clubcyberia.co
 collapsitarian.io
@@ -169,6 +168,7 @@ strelizia.net
 syspxl.xyz
 tastingtraffic.net
 teci.world
+thechimp.zone
 thepostearthdestination.com
 tkammer.de
 trumpislovetrumpis.life
