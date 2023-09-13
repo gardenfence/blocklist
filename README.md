@@ -12,8 +12,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Updated**: 2023-09-10  
-**Count**: 191  
+**Last Updated**: 2023-09-13  
+**Block Count**: 127  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -32,11 +32,9 @@ The Garden Fence blocklist is generated with a python script:
 - Block lists are fetched from each of the reference servers
 - *Suspend* level blocks are counted, *Limit/Silence* blocks are ignored
 - Blocks of subdomains count towards the root domain (blocking `social.bad.example` is counted as blocking `bad.example`)
-- Suspensions which are shared by **at least 75% of reference servers** are included in the list (5/7)\*
+- Suspensions which are shared by **at least 6 of the 7 of reference servers** are included in the list (~85%)
 - Tags are added by matching against the comments provided by the reference servers
 - Servers which are believed to be offline are filtered out to reduce clutter
-
- *\* percentage is approximate due to rounding, and may vary as server participation changes*
 
 ### Reference Servers
 
