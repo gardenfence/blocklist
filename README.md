@@ -12,7 +12,7 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Last Updated**: 2023-09-13  
+**Last Updated**: 2023-09-24  
 **Block Count**: 127  
 
 ### Downloadable Files for Import
@@ -72,8 +72,8 @@ Updates are typically processed and reviewed once a week.
 
 One of the aims of the Garden Fence blocklist is simplicity. There is only one list, it can be used for manual or automatic import, and I aim to keep it as straightforward as I can.  
 
-It might not suit your needs though.  These are some other recommended lists which you might find useful:
+It might not suit your needs though.  These are some other lists which you might find useful:
 
 - [Seirdy's Fediverse Blocklists](https://seirdy.one/posts/2023/05/02/fediverse-blocklists/) has several manually curated block lists in different levels of severity.
 
-- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains a variety of lists automatically combined from a variety of sources.
+- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains a variety of lists automatically combined from several reference sources.
