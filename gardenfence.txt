@@ -1,5 +1,6 @@
 076.ne.jp
 1611.social
+5dollah.click
 activitypub-troll.cf
 aethy.com
 angrytoday.com
@@ -114,6 +115,7 @@ spinster.xyz
 springbo.cc
 stereophonic.space
 strelizia.net
+supernets.social
 tastingtraffic.net
 teci.world
 truthsocial.co.in

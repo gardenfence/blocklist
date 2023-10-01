@@ -1,6 +1,7 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 076.ne.jp,suspend,False,False,hate-associated,False
 1611.social,suspend,False,False,"hate-associated, anti-lgbtq, hate-speech",False
+5dollah.click,suspend,False,False,"hate-speech, anti-lgbtq, harassment, hate-associated, racism",False
 activitypub-troll.cf,suspend,False,False,"dos, harassment, spam",False
 aethy.com,suspend,False,False,"underage, inappropriate",False
 angrytoday.com,suspend,False,False,"hate-associated, alt-right",False
@@ -63,7 +64,7 @@ ligma.pro,suspend,False,False,alt-right,False
 lolicon.rocks,suspend,False,False,"underage, hate-speech",False
 lolison.network,suspend,False,False,"underage, inappropriate",False
 lolison.top,suspend,False,False,"inappropriate, underage",False
-lovingexpressions.net,suspend,False,False,"hate-associated, hate-speech, nazism, racism",False
+lovingexpressions.net,suspend,False,False,"hate-speech, hate-associated, nazism, racism",False
 mapsupport.de,suspend,False,False,"underage, harassment, inappropriate",False
 mastinator.com,suspend,False,False,"bots, harassment",False
 merovingian.club,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
@@ -105,7 +106,7 @@ seal.cafe,suspend,False,False,"harassment, racism, alt-right, anti-lgbtq, antise
 shitpost.cloud,suspend,False,False,"alt-right, harassment, hate-speech, racism",False
 shitposter.club,suspend,False,False,"alt-right, harassment",False
 shortstackran.ch,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
-shortstacksran.ch,suspend,False,False,"racism, antisemitism, hate-associated, hate-speech",False
+shortstacksran.ch,suspend,False,False,"hate-speech, racism, antisemitism, hate-associated",False
 shota.house,suspend,False,False,"alt-right, underage, inappropriate",False
 shrimpposter.club,suspend,False,False,"hate-associated, hate-speech, harassment",False
 skippers-bin.com,suspend,False,False,"inappropriate, underage",False
@@ -115,6 +116,7 @@ spinster.xyz,suspend,False,False,anti-lgbtq,False
 springbo.cc,suspend,False,False,"alt-right, anti-lgbtq, racism, harassment",False
 stereophonic.space,suspend,False,False,"hate-associated, alt-right, harassment",False
 strelizia.net,suspend,False,False,"hate-speech, underage",False
+supernets.social,suspend,False,False,"hate-speech, racism, alt-right",False
 tastingtraffic.net,suspend,False,False,"anti-lgbtq, spam",False
 teci.world,suspend,False,False,"hate-associated, alt-right",False
 truthsocial.co.in,suspend,False,False,alt-right,False
