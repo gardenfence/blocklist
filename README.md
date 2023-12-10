@@ -12,8 +12,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Last Updated**: 2023-12-03  
-**Block Count**: 133  
+**Last Updated**: 2023-12-10  
+**Block Count**: 129  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -44,9 +44,9 @@ The admins of these servers have given permission for their block lists to be us
 - [mastodon.art](https://mastodon.art)
 - [mastodon.social](https://mastodon.social)
 - [rage.love](https://rage.love)
-- [toot.wales](https://toot.wales)
 - [tenforward.social](https://tenforward.social)
 - [solarpunk.moe](https://solarpunk.moe)
+- [indieweb.social](https://indieweb.social)
 
 The admins of these servers make their own determinations about which servers to block, and represent a variety of administrative styles and approaches to evaluating the importance of blocking any particular server. They do not necessarily endorse the entire content of the final blocklist, or suspensions made by other servers.
 
