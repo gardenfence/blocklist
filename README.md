@@ -23,7 +23,7 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 : As of version 4.1, blocklist files can be imported and exported from the admin interface, under **Moderation > Federation**.
 
 **fediblock-sync**
-: The comand line tool **fediblock-sync** available from [fediblockhole](https://github.com/eigenmagic/fediblockhole) can be used to import blocklists from multiple sources, including remote servers, URLs, or local files.
+: The command line tool **fediblock-sync** available from [fediblockhole](https://github.com/eigenmagic/fediblockhole) can be used to import blocklists from multiple sources, including remote servers, URLs, or local files.
 
 ## How is the list created?
 
