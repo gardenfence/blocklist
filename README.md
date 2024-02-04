@@ -12,8 +12,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 
 ## The Blocklist
 
-**Last Updated**: 2024-01-28  
-**Block Count**: 130  
+**Last Updated**: 2024-02-04  
+**Block Count**: 132  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
