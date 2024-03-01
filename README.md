@@ -10,6 +10,8 @@ This blocklist is intended as a simple starting point for Mastodon server admins
 - Sexualization of minors, potential for [CSAM](https://www.missingkids.org/theissues/csam)
 - Spamming, denial-of-service, network disruption, abusive bots
 
+Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notification of weekly updates or other important changes to the list.
+
 ## The Blocklist
 
 **Last Updated**: 2024-02-25  
