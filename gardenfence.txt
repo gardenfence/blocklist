@@ -4,6 +4,7 @@
 activitypub-troll.cf
 adachi.party
 aethy.com
+alterracloud.com
 annihilation.social
 asbestos.cafe
 bae.st
