@@ -81,6 +81,7 @@ misskey-forkbomb.cf
 mouse.services
 mugicha.club
 natehiggers.online
+nationalist.social
 nicecrew.digital
 nnia.space
 noagendasocial.com
@@ -134,6 +135,7 @@ truthsocial.co.in
 usualsuspects.lol
 varishangout.net
 whinge.town
+whitewomen.dog
 wideboys.org
 wolfgirl.bar
 yggdrasil.social
