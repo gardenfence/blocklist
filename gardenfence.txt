@@ -117,6 +117,7 @@ scots.network
 seal.cafe
 shitpost.cloud
 shitposter.club
+shitposter.world
 shortstacksran.ch
 shota.house
 shrimpposter.club

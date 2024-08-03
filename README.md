@@ -14,8 +14,8 @@ Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notifi
 
 ## The Blocklist
 
-**Last Updated**: 2024-07-28  
-**Block Count**: 143  
+**Last Updated**: 2024-08-03  
+**Block Count**: 144  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
@@ -77,5 +77,4 @@ One of the aims of the Garden Fence blocklist is simplicity. There is only one l
 It might not suit your needs though.  These are some other lists which you might find useful:
 
 - [Seirdy's Fediverse Blocklists](https://seirdy.one/posts/2023/05/02/fediverse-blocklists/) has several manually curated block lists in different levels of severity.
-
-- [Oliphant’s Blocklists](https://writer.oliphant.social/oliphant/blocklists) contains a variety of lists automatically combined from several reference sources.
+- [Awesome Fedi Admin Resources](https://codeberg.org/nev/awesome-fediadmin/#basic-blocklists) has a list of Basic Blocklists in addition to other other resources for fedi admins.
