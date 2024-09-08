@@ -14,8 +14,8 @@ Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notifi
 
 ## The Blocklist
 
-**Last Updated**: 2024-09-01  
-**Block Count**: 143  
+**Last Updated**: 2024-09-08  
+**Block Count**: 144  
 
 ### Downloadable Files for Import
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
