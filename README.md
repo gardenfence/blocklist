@@ -18,6 +18,9 @@ Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notifi
 **Block Count**: 144  
 
 ### Downloadable Files for Import
+
+**Before importing this or any blocklist, you are encouraged to spend some time reviewing its contents to ensure that it agrees with your values and criteria for the domains you wish to block. Keep in mind that viewing the content on some of the listed domains will expose you to hate speech, uncensored explicit imagery, or worse... Proceed accordingly.**
+
 - [gardenfence-mastodon.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-mastodon.csv) (Mastodon format)
 - [gardenfence-fediblocksync.csv](https://github.com/gardenfence/blocklist/blob/main/gardenfence-fediblocksync.csv) (fediblock-sync format)
 
@@ -29,42 +32,39 @@ Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notifi
 
 ## How is the list created?
 
-The Garden Fence blocklist is generated with a python script:
+*As of Sep. 2024, only domains which are blocked by sunny.garden are included in the list.  In practice, this has been the case since Nov. 2023, but it is now enforced as a requirement.*
 
-- Block lists are fetched from each of the reference servers
+- Domain is blocked by sunny.garden
+- Domain is also blocked by a minimum number of additional reference servers (subject to change, but currently 6 out of 7).
 - *Suspend* level blocks are counted, *Limit/Silence* blocks are ignored
 - Blocks of subdomains count towards the root domain (blocking `social.bad.example` is counted as blocking `bad.example`)
-- Suspensions which are shared by **at least 6 of the 7 of reference servers** are included in the list (~85%)
-- Tags are added by matching against the comments provided by the reference servers
-- Servers which are believed to be offline are filtered out to reduce clutter
+- All additions and removals from the list are manually reviewed.
+
+Tags are added by matching against the comments provided by the reference servers.
+
+Domains may be excluded from the list if they are believed to be offline, or if the reason for the block is outside the intended scope of the blocklist, even if they are widely blocked (eg. threads.net, or bridges to twitter/bluesky/mostr).
 
 ### Reference Servers
 
-The admins of these servers have given permission for their block lists to be used for the purpose of generating this combined blocklist:
+As of Sep. 2024, the reference server list is no longer public. This is primarily due to the time and effort required to find suitable reference servers that are also willing to be publicly listed as such, making it extremely difficult and time consuming to replace any server that is no longer being used as a reference.
 
-- [sunny.garden](https://sunny.garden)
-- [mastodon.art](https://mastodon.art)
-- [mastodon.social](https://mastodon.social)
-- [rage.love](https://rage.love)
-- [tenforward.social](https://tenforward.social)
-- [solarpunk.moe](https://solarpunk.moe)
-- [indieweb.social](https://indieweb.social)
+A related change, as noted above, is that the blocks from reference servers are now used to filter down the sunny.garden blocklist to include the most widely blocked "worst of the worst" domains.
 
-The admins of these servers make their own determinations about which servers to block, and represent a variety of administrative styles and approaches to evaluating the importance of blocking any particular server. They do not necessarily endorse the entire content of the final blocklist, or suspensions made by other servers.
+Reference servers are selected which have public blocklists, operate relatively independently of each other, and are known to actively monitor and block problematic domains. 
 
 ## What this list is *not*...
 
 ### Neutral / Unbiased
 
-This is not a neutral or unbiased survey of which servers are most blocked across the fediverse. It is highly biased against the various forms of unwanted content mentioned above.
+This is not a neutral or unbiased survey of which domains are most blocked across the fediverse. It is highly biased against the various forms of unwanted content mentioned above.
 
 ### Comprehensive
 
-This list contains only the most blocked servers among the selected group of reference servers.  Some of these servers on their own have much longer blocklists, and there are surely other servers that you may wish to block that are not listed.
+This list contains only domains blocked by sunny.garden which are also blocked by a majority of reference servers.  There are surely other domains that you may wish to block that are not listed.
 
-It also does not necessarily represent all of the different kinds of content that you might want to block depending on the goals and values of your particular server, such as porn, crypto, bots, etc.
+It also does not necessarily represent all of the different kinds of content that you might want to block depending on the goals and values of your particular server, such as porn, crypto, bots, bridges, etc.
 
-It is also highly biased towards English content, and may not provide good coverage for content in other languages.
+It is focused on English content, and will likely not provide good coverage for content in other languages.
 
 ### Realtime
 
