@@ -46,17 +46,19 @@ Domains may be excluded from the list if they are believed to be offline, or if 
 
 ### Reference Servers
 
-As of Sep. 2024, the reference server list is no longer public. This is primarily due to the time and effort required to find suitable reference servers that are also willing to be publicly listed as such, making it extremely difficult and time consuming to replace any server that is no longer being used as a reference.
+As of Sep. 2024, servers used as references for filtering are no longer listed. This is primarily due to the time and effort required to find suitable reference servers that are *also* willing to be publicly listed as such, making it extremely difficult and time consuming to replace any server that is no longer being used as a reference.
 
 A related change, as noted above, is that the blocks from reference servers are now used to filter down the sunny.garden blocklist to include the most widely blocked "worst of the worst" domains.
 
-Reference servers are selected which have public blocklists, operate relatively independently of each other, and are known to actively monitor and block problematic domains. 
+Reference servers are selected which have compatible values, operate relatively independently of each other, and are known to actively monitor and block problematic domains. 
 
 ## What this list is *not*...
 
 ### Neutral / Unbiased
 
-This is not a neutral or unbiased survey of which domains are most blocked across the fediverse. It is highly biased against the various forms of unwanted content mentioned above.
+This is not a neutral or unbiased survey of which domains are most blocked across the fediverse.  The contents are based on the judgements made building sunny.garden's blocklist, and filtered down using other servers as references to help determine relevance to other servers with compatible values.
+
+Judgement is used during manual review when compiling the resulting list before publishing.
 
 ### Comprehensive
 
