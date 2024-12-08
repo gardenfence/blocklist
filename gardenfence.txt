@@ -4,7 +4,6 @@
 activitypub-troll.cf
 adachi.party
 aethy.com
-alterracloud.com
 annihilation.social
 asbestos.cafe
 bae.st
@@ -81,7 +80,6 @@ mirr0r.city
 misskey-forkbomb.cf
 mouse.services
 mugicha.club
-natehiggers.online
 nationalist.social
 nicecrew.digital
 nnia.space

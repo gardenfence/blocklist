@@ -5,7 +5,6 @@
 activitypub-troll.cf,suspend,false,false,"dos, harassment, spam",false
 adachi.party,suspend,false,false,"harassment, hate-associated, hate-speech, racism",false
 aethy.com,suspend,false,false,"underage, inappropriate",false
-alterracloud.com,suspend,false,false,"harassment, hate-speech",false
 annihilation.social,suspend,false,false,"hate-speech, harassment, hate-associated",false
 asbestos.cafe,suspend,false,false,"alt-right, hate-associated, anti-lgbtq, hate-speech, racism, underage",false
 bae.st,suspend,false,false,"hate-speech, alt-right, anti-lgbtq, hate-associated, inappropriate, nazism, racism",false
@@ -82,7 +81,6 @@ mirr0r.city,suspend,false,false,"hate-associated, underage",false
 misskey-forkbomb.cf,suspend,false,false,"dos, spam",false
 mouse.services,suspend,false,false,"harassment, hate-associated",false
 mugicha.club,suspend,false,false,"hate-speech, racism",false
-natehiggers.online,suspend,false,false,"fascism, hate-speech, racism",false
 nationalist.social,suspend,false,false,"hate-speech, nazism, racism, alt-right",false
 nicecrew.digital,suspend,false,false,"hate-speech, anti-lgbtq, racism",false
 nnia.space,suspend,false,false,"alt-right, underage",false
