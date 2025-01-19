@@ -84,6 +84,7 @@ mouse.services
 mugicha.club
 nationalist.social
 nicecrew.digital
+nightshift.social
 nnia.space
 noagendasocial.com
 noauthority.social
