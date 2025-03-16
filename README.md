@@ -14,8 +14,8 @@ Follow [@gardenfence@sunny.garden](https://sunny.garden/@gardenfence) for notifi
 
 ## The Blocklist
 
-**Last Updated**: 2025-01-19  
-**Block Count**: 148  
+**Last Updated**: 2025-03-16  
+**Block Count**: 149  
 
 ### Downloadable Files for Import
 
