@@ -1,22 +1,22 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 076.ne.jp,suspend,false,false,hate-associated,false
 1611.social,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech",false
-5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism",false
+5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism, spam",false
 activitypub-troll.cf,suspend,false,false,"dos, harassment, spam",false
 adachi.party,suspend,false,false,"harassment, hate-associated, hate-speech, racism",false
 aethy.com,suspend,false,false,"inappropriate, underage",false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
-bae.st,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, inappropriate, nazism, racism",false
+bae.st,suspend,false,false,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism",false
 banepo.st,suspend,false,false,"antivax, harassment, hate-associated",false
 baraag.net,suspend,false,false,"hate-associated, inappropriate, underage",false
-beefyboys.win,suspend,false,false,"hate-associated, hate-speech",false
+beefyboys.win,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech",false
 berserker.town,suspend,false,false,"alt-right, anti-lgbtq, fascism, hate-speech",false
 bird.makeup,suspend,false,false,"bots, twitter",false
 blob.cat,suspend,false,false,"harassment, porn",false
-boymoder.biz,suspend,false,false,"harassment, hate-associated, hate-speech, racism, underage",false
+boymoder.biz,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism, underage",false
 breastmilk.club,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism",false
-brighteon.social,suspend,false,false,conspiracy,false
+brighteon.social,suspend,false,false,"alt-right, conspiracy, hate-speech",false
 bungle.online,suspend,false,false,"hate-associated, racism",false
 cachapa.xyz,suspend,false,false,"hate-speech, racism",false
 cannibal.cafe,suspend,false,false,"inappropriate, underage",false
@@ -42,12 +42,12 @@ federated.fun,suspend,false,false,"anti-lgbtq, hate-speech",false
 fightthis.net,suspend,false,false,hate-associated,false
 fluf.club,suspend,false,false,"hate-associated, hate-speech",false
 freak.university,suspend,false,false,"inappropriate, underage",false
-freeatlantis.com,suspend,false,false,"conspiracy, hate-speech, misinformation",false
+freeatlantis.com,suspend,false,false,"conspiracy, hate-speech, misinformation, racism",false
 freesoftwareextremist.com,suspend,false,false,"alt-right, hate-associated, hate-speech",false
 freespeechextremist.com,suspend,false,false,hate-speech,false
 frennet.xyz,suspend,false,false,"hate-associated, hate-speech",false
 fsebugoutzone.org,suspend,false,false,"hate-speech, racism",false
-gameliberty.club,suspend,false,false,"bots, hate-speech, racism",false
+gameliberty.club,suspend,false,false,"bots, hate-speech, porn, racism",false
 gearlandia.haus,suspend,false,false,"alt-right, anti-lgbtq, racism",false
 genderheretics.xyz,suspend,false,false,"anti-lgbtq, hate-speech",false
 geofront.rocks,suspend,false,false,"hate-speech, nazism, racism",false
@@ -57,7 +57,7 @@ glee.li,suspend,false,false,"harassment, hate-speech, racism",false
 h5q.net,suspend,false,false,"inappropriate, porn, underage",false
 hidamari.apartments,suspend,false,false,"alt-right, nazism",false
 husk.site,suspend,false,false,"harassment, hate-speech, racism",false
-iddqd.social,suspend,false,false,"harassment, hate-associated, nazism",false
+iddqd.social,suspend,false,false,"dos, harassment, hate-associated, hate-speech, nazism",false
 ignorelist.com,suspend,false,false,"dos, spam",false
 intkos.link,suspend,false,false,"alt-right, antisemitism, hate-speech",false
 kawa-kun.com,suspend,false,false,hate-associated,false
@@ -75,7 +75,7 @@ lolison.network,suspend,false,false,"inappropriate, underage",false
 lolison.top,suspend,false,false,"inappropriate, underage",false
 lovingexpressions.net,suspend,false,false,"hate-associated, hate-speech, nazism, racism",false
 mapsupport.de,suspend,false,false,"harassment, inappropriate, underage",false
-mastinator.com,suspend,false,false,"bots, harassment",false
+mastinator.com,suspend,false,false,"bots, harassment, spam",false
 merovingian.club,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech",false
 midwaytrades.com,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
 mirr0r.city,suspend,false,false,"hate-associated, inappropriate, underage",false
@@ -84,12 +84,12 @@ mostr.pub,suspend,false,false,"alt-right, hate-speech, spam",false
 mouse.services,suspend,false,false,"harassment, hate-associated",false
 mugicha.club,suspend,false,false,"hate-speech, racism",false
 nationalist.social,suspend,false,false,"alt-right, hate-speech, nazism, racism",false
-nicecrew.digital,suspend,false,false,"anti-lgbtq, hate-speech, racism",false
+nicecrew.digital,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism",false
 nightshift.social,suspend,false,false,"antivax, conspiracy, harassment, hate-associated, hate-speech, racism",false
-nnia.space,suspend,false,false,"alt-right, underage",false
+nnia.space,suspend,false,false,"alt-right, harassment, underage",false
 noagendasocial.com,suspend,false,false,"alt-right, hate-speech",false
 noauthority.social,suspend,false,false,"alt-right, anti-lgbtq, conspiracy, harassment, hate-speech, racism",false
-nobodyhasthe.biz,suspend,false,false,"anti-lgbtq, hate-speech",false
+nobodyhasthe.biz,suspend,false,false,"anti-lgbtq, hate-speech, racism",false
 norwoodzero.net,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech, nazism, racism",false
 novoa.nagoya,suspend,false,false,"antisemitism, harassment, hate-associated, hate-speech, racism",false
 nyanide.com,suspend,false,false,"anti-lgbtq, harassment, hate-speech, nazism, racism",false
@@ -102,10 +102,10 @@ parcero.casa,suspend,false,false,"harassment, hate-speech",false
 pawoo.net,suspend,false,false,"inappropriate, underage",false
 pedo.school,suspend,false,false,underage,false
 pibvt.net,suspend,false,false,"inappropriate, underage",false
-pieville.net,suspend,false,false,"harassment, hate-speech, nazism",false
+pieville.net,suspend,false,false,"harassment, hate-speech, nazism, racism, white-supremacy",false
 pisskey.io,suspend,false,false,"hate-associated, hate-speech",false
 pkteerium.xyz,suspend,false,false,"alt-right, conspiracy",false
-poa.st,suspend,false,false,"alt-right, hate-speech, nazism, racism",false
+poa.st,suspend,false,false,"alt-right, anti-lgbtq, hate-speech, nazism, racism, spam",false
 pone.social,suspend,false,false,"anti-lgbtq, hate-associated, racism, underage",false
 poster.place,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, nazism, racism",false
 quanta.wiki,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
@@ -116,8 +116,8 @@ refusal.biz,suspend,false,false,"alt-right, hate-speech, inappropriate, underage
 repl.co,suspend,false,false,"dos, spam",false
 republic.red,suspend,false,false,"alt-right, anti-lgbtq, conspiracy, fascism, hate-speech",false
 rojogato.com,suspend,false,false,"harassment, hate-speech",false
-rot.gives,suspend,false,false,"hate-speech, inappropriate, underage",false
-ryona.agency,suspend,false,false,"anti-lgbtq, hate-speech",false
+rot.gives,suspend,false,false,"hate-speech, inappropriate, racism, underage",false
+ryona.agency,suspend,false,false,"anti-lgbtq, hate-speech, racism",false
 schwartzwelt.xyz,suspend,false,false,"hate-associated, hate-speech",false
 scots.network,suspend,false,false,"anti-lgbtq, hate-speech",false
 seal.cafe,suspend,false,false,"alt-right, anti-lgbtq, antisemitism, harassment, hate-associated, hate-speech, racism",false
@@ -127,10 +127,11 @@ shitposter.world,suspend,false,false,"alt-right, harassment",false
 shortstacksran.ch,suspend,false,false,"antisemitism, hate-associated, hate-speech, racism",false
 shota.house,suspend,false,false,"alt-right, inappropriate, underage",false
 shrimpposter.club,suspend,false,false,"harassment, hate-associated, hate-speech",false
-skinheads.social,suspend,false,false,"hate-associated, hate-speech, nazism",false
-skippers-bin.com,suspend,false,false,"inappropriate, underage",false
+sixguns.com,suspend,false,false,"alt-right, conspiracy, harassment",false
+skinheads.social,suspend,false,false,"hate-associated, hate-speech, nazism, white-supremacy",false
+skippers-bin.com,suspend,false,false,"inappropriate, nazism, underage",false
 sneed.social,suspend,false,false,"anti-lgbtq, antisemitism, fascism, hate-speech, racism",false
-spinster.xyz,suspend,false,false,anti-lgbtq,false
+spinster.xyz,suspend,false,false,"anti-lgbtq, hate-speech",false
 springbo.cc,suspend,false,false,"alt-right, anti-lgbtq, harassment, racism",false
 stereophonic.space,suspend,false,false,"alt-right, harassment, hate-associated",false
 strelizia.net,suspend,false,false,"hate-speech, underage",false
@@ -138,14 +139,15 @@ supernets.social,suspend,false,false,"alt-right, hate-speech, racism",false
 tastingtraffic.net,suspend,false,false,"anti-lgbtq, spam",false
 teci.world,suspend,false,false,"alt-right, hate-associated",false
 theblab.org,suspend,false,false,"hate-speech, racism",false
-truthsocial.co.in,suspend,false,false,alt-right,false
+truthsocial.co.in,suspend,false,false,"alt-right, hate-speech",false
 usualsuspects.lol,suspend,false,false,"anti-lgbtq, harassment, hate-speech",false
-varishangout.net,suspend,false,false,"anti-lgbtq, hate-speech, inappropriate, racism",false
+varishangout.net,suspend,false,false,"anti-lgbtq, hate-speech, inappropriate, racism, underage",false
+volk.network,suspend,false,false,"hate-speech, racism, white-supremacy",false
 whinge.town,suspend,false,false,"anti-lgbtq, hate-associated, racism",false
 whitewomen.dog,suspend,false,false,"hate-associated, hate-speech, inappropriate, racism, underage",false
 wideboys.org,suspend,false,false,"anti-lgbtq, harassment, hate-associated, racism",false
-wolfgirl.bar,suspend,false,false,"antisemitism, harassment, hate-speech, racism",false
+wolfgirl.bar,suspend,false,false,"anti-lgbtq, antisemitism, harassment, hate-speech, racism, white-supremacy",false
 yesmap.net,suspend,false,false,"inappropriate, underage",false
-yggdrasil.social,suspend,false,false,"anti-lgbtq, hate-speech",false
-youjo.love,suspend,false,false,"antisemitism, antivax, inappropriate, underage",false
+yggdrasil.social,suspend,false,false,"anti-lgbtq, harassment, hate-speech",false
+youjo.love,suspend,false,false,"antisemitism, antivax, harassment, inappropriate, underage",false
 zztails.gay,suspend,false,false,"alt-right, hate-speech, racism",false
