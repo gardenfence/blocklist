@@ -6,6 +6,7 @@ activitypub-troll.cf,suspend,false,false,"dos, harassment, spam",false
 adachi.party,suspend,false,false,"harassment, hate-associated, hate-speech, racism",false
 aethy.com,suspend,false,false,"inappropriate, underage",false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
+arell.ai,suspend,false,false,"bots, spam",false
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
 bae.st,suspend,false,false,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism",false
 banepo.st,suspend,false,false,"antivax, harassment, hate-associated",false
@@ -46,6 +47,7 @@ freeatlantis.com,suspend,false,false,"conspiracy, hate-speech, misinformation, r
 freesoftwareextremist.com,suspend,false,false,"alt-right, hate-associated, hate-speech",false
 freespeechextremist.com,suspend,false,false,hate-speech,false
 frennet.xyz,suspend,false,false,"hate-associated, hate-speech",false
+freysa.ai,suspend,false,false,"bots, spam",false
 fsebugoutzone.org,suspend,false,false,"hate-speech, racism",false
 gameliberty.club,suspend,false,false,"bots, hate-speech, porn, racism",false
 gearlandia.haus,suspend,false,false,"alt-right, anti-lgbtq, racism",false

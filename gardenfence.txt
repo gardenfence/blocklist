@@ -5,6 +5,7 @@ activitypub-troll.cf
 adachi.party
 aethy.com
 annihilation.social
+arell.ai
 asbestos.cafe
 bae.st
 banepo.st
@@ -45,6 +46,7 @@ freeatlantis.com
 freesoftwareextremist.com
 freespeechextremist.com
 frennet.xyz
+freysa.ai
 fsebugoutzone.org
 gameliberty.club
 gearlandia.haus
