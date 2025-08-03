@@ -1,5 +1,3 @@
-076.ne.jp
-1611.social
 5dollah.click
 activitypub-troll.cf
 adachi.party
@@ -8,7 +6,6 @@ annihilation.social
 arell.ai
 asbestos.cafe
 bae.st
-banepo.st
 baraag.net
 beefyboys.win
 berserker.town
@@ -33,7 +30,6 @@ cunnyborea.space
 cunnyborea.top
 cutefunny.net
 cutiepaws.org
-cybercriminal.eu
 decayable.ink
 detroitriotcity.com
 eientei.org
