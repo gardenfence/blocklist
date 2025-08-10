@@ -78,7 +78,6 @@ midwaytrades.com
 mirr0r.city
 misskey-forkbomb.cf
 mostr.pub
-mouse.services
 mugicha.club
 nationalist.social
 nicecrew.digital
@@ -90,10 +89,8 @@ nobodyhasthe.biz
 norwoodzero.net
 novoa.nagoya
 nyanide.com
-obo.sh
 oddballs.online
 outpoa.st
-paravielfalt.zone
 parcero.bond
 parcero.casa
 pawoo.net
@@ -116,7 +113,6 @@ rojogato.com
 rot.gives
 ryona.agency
 schwartzwelt.xyz
-scots.network
 seal.cafe
 shitpost.cloud
 shitposter.club
@@ -132,7 +128,6 @@ spinster.xyz
 springbo.cc
 stereophonic.space
 strelizia.net
-supernets.social
 tastingtraffic.net
 teci.world
 theblab.org
