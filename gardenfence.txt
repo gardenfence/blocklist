@@ -1,5 +1,4 @@
 5dollah.click
-activitypub-troll.cf
 adachi.party
 aethy.com
 annihilation.social
@@ -8,7 +7,6 @@ asbestos.cafe
 bae.st
 baraag.net
 beefyboys.win
-berserker.town
 bird.makeup
 blob.cat
 boymoder.biz
@@ -77,7 +75,6 @@ mastinator.com
 merovingian.club
 midwaytrades.com
 mirr0r.city
-misskey-forkbomb.cf
 mostr.pub
 mugicha.club
 nationalist.social

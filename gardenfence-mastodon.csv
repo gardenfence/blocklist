@@ -1,6 +1,5 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, spam",false
-activitypub-troll.cf,suspend,false,false,"dos, harassment, spam",false
 adachi.party,suspend,false,false,"harassment, hate-speech, racism",false
 aethy.com,suspend,false,false,"inappropriate, underage",false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
@@ -9,7 +8,6 @@ asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-
 bae.st,suspend,false,false,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism",false
 baraag.net,suspend,false,false,"hate-associated, inappropriate, underage",false
 beefyboys.win,suspend,false,false,"alt-right, anti-lgbtq, fascism, harassment, hate-speech, racism",false
-berserker.town,suspend,false,false,"alt-right, anti-lgbtq, fascism, hate-speech",false
 bird.makeup,suspend,false,false,"bots, twitter",false
 blob.cat,suspend,false,false,"harassment, porn",false
 boymoder.biz,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism, underage",false
@@ -78,7 +76,6 @@ mastinator.com,suspend,false,false,"bots, harassment, spam",false
 merovingian.club,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech",false
 midwaytrades.com,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
 mirr0r.city,suspend,false,false,"hate-associated, inappropriate, underage",false
-misskey-forkbomb.cf,suspend,false,false,"dos, spam",false
 mostr.pub,suspend,false,false,"alt-right, hate-speech, spam",false
 mugicha.club,suspend,false,false,"hate-speech, racism",false
 nationalist.social,suspend,false,false,"alt-right, hate-speech, nazism, racism",false
