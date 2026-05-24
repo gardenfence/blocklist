@@ -60,7 +60,7 @@ husk.site,suspend,false,false,"harassment, hate-speech, racism",false
 iddqd.social,suspend,false,false,"dos, harassment, hate-associated, hate-speech, nazism",false
 ignorelist.com,suspend,false,false,"dos, spam",false
 intkos.link,suspend,false,false,"alt-right, antisemitism, hate-speech",false
-kawa-kun.com,suspend,false,false,hate-associated,false
+kawa-kun.com,suspend,false,false,"hate-associated, nazism",false
 kitsunemimi.club,suspend,false,false,"hate-speech, racism",false
 kiwifarms.cc,suspend,false,false,"alt-right, anti-lgbtq, harassment, racism",false
 kompost.cz,suspend,false,false,"hate-associated, hate-speech, nazism, racism",false
@@ -107,7 +107,7 @@ pone.social,suspend,false,false,"anti-lgbtq, hate-associated, racism, underage",
 poster.place,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, nazism, racism",false
 quanta.wiki,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
 rape.pet,suspend,false,false,"inappropriate, underage",false
-rapemeat.solutions,suspend,false,false,"hate-speech, inappropriate, underage",false
+rapemeat.solutions,suspend,false,false,"harassment, hate-speech, inappropriate, underage",false
 rdrama.cc,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism",false
 refusal.biz,suspend,false,false,"alt-right, hate-speech, inappropriate, underage",false
 repl.co,suspend,false,false,"dos, spam",false
