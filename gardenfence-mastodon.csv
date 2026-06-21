@@ -1,6 +1,5 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, spam",false
-adachi.party,suspend,false,false,"harassment, hate-speech, racism",false
 aethy.com,suspend,false,false,"inappropriate, underage",false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
 arell.ai,suspend,false,false,"bots, spam",false
@@ -20,7 +19,6 @@ cawfee.club,suspend,false,false,"alt-right, hate-speech, racism",false
 clew.live,suspend,false,false,"anti-lgbtq, hate-speech, racism",false
 clew.lol,suspend,false,false,"hate-speech, racism",false
 clubcyberia.co,suspend,false,false,"harassment, hate-speech, racism",false
-collapsitarian.io,suspend,false,false,"alt-right, hate-associated",false
 contrapointsfan.club,suspend,false,false,"hate-associated, hate-speech",false
 cottoncandy.cafe,suspend,false,false,"inappropriate, underage",false
 cryptodon.lol,suspend,false,false,crypto,false
@@ -105,7 +103,6 @@ pkteerium.xyz,suspend,false,false,"alt-right, conspiracy",false
 poa.st,suspend,false,false,"alt-right, anti-lgbtq, hate-speech, nazism, racism, spam",false
 pone.social,suspend,false,false,"anti-lgbtq, hate-associated, racism, underage",false
 poster.place,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, nazism, racism",false
-quanta.wiki,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
 rape.pet,suspend,false,false,"inappropriate, underage",false
 rapemeat.solutions,suspend,false,false,"harassment, hate-speech, inappropriate, underage",false
 rassilni.com,suspend,false,false,"antisemitism, hate-speech, racism",false
@@ -147,4 +144,3 @@ wolfgirl.bar,suspend,false,false,"anti-lgbtq, antisemitism, harassment, hate-spe
 yesmap.net,suspend,false,false,"inappropriate, underage",false
 yggdrasil.social,suspend,false,false,"anti-lgbtq, harassment, hate-speech, nazism, racism, white-supremacy",false
 youjo.love,suspend,false,false,"antisemitism, antivax, harassment, inappropriate, underage",false
-zztails.gay,suspend,false,false,"alt-right, hate-speech, racism",false
