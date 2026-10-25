@@ -1,6 +1,7 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, spam",false
 aethy.com,suspend,false,false,"inappropriate, underage",false
+anni.social,suspend,false,false,"fascism, harassment, hate-speech, nazism, racism",false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
 bae.st,suspend,false,false,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism",false
